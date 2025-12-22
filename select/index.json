@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "UVERworld　『IMPACT』",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-22T14:27:36.204010Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Impact Of Reason",
+      "artist": "Underoath",
+      "has_synced": false,
+      "path": "select/01_The_Impact_Of_Reason_Underoath.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Impact avec le diable",
+      "artist": "MC Solaar",
+      "has_synced": true,
+      "path": "select/02_Impact_avec_le_diable_MC_Solaar.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "High Velocity Impact Spatter",
+      "artist": "Cannibal Corpse",
+      "has_synced": true,
+      "path": "select/03_High_Velocity_Impact_Spatter_Cannibal_Corpse.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Die In A Crash (Point Of Impact Mix)",
+      "artist": "Ministry",
+      "has_synced": false,
+      "path": "select/04_Die_In_A_Crash_(Point_Of_Impact_Mix)_Ministry.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Moment of Impact",
+      "artist": "Fear Factory",
+      "has_synced": true,
+      "path": "select/05_Moment_of_Impact_Fear_Factory.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Brace for Impact",
+      "artist": "Flotsam and Jetsam",
+      "has_synced": true,
+      "path": "select/06_Brace_for_Impact_Flotsam_and_Jetsam.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Impact Is Imminent",
+      "artist": "Exodus",
+      "has_synced": true,
+      "path": "select/07_Impact_Is_Imminent_Exodus.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sudden Impact",
+      "artist": "Exciter",
+      "has_synced": true,
+      "path": "select/08_Sudden_Impact_Exciter.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Impact",
+      "artist": "Taproot",
+      "has_synced": true,
+      "path": "select/09_Impact_Taproot.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Come sweet death,second impact",
+      "artist": "Megumi Hayashibara",
+      "has_synced": true,
+      "path": "select/10_Come_sweet_death,second_impact_Megumi_Hayashibara.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Come sweet death, second impact",
+      "artist": "林原めぐみ",
+      "has_synced": true,
+      "path": "select/11_Come_sweet_death,_second_impact_林原めぐみ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Impact (feat. Robyn & Channel Tres)",
+      "artist": "SG Lewis feat. Robyn & Channel Tres",
+      "has_synced": true,
+      "path": "select/12_Impact_(feat._Robyn_&_Channel_Tres)_SG_Lewis_feat._Robyn_&_Channel_Tres.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Impact",
+      "artist": "SG Lewis, Robyn, Channel Tres",
+      "has_synced": true,
+      "path": "select/13_Impact_SG_Lewis,_Robyn,_Channel_Tres.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dual-Ego (feat. HOYO-MiX) [Honkai Impact 3rd Ost]",
+      "artist": "薩頂頂",
+      "has_synced": true,
+      "path": "select/14_Dual-Ego_(feat._HOYO-MiX)_[Honkai_Impact_3rd_Ost]_薩頂頂.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "IMPACT",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_IMPACT_UVERworld.txt"
+    }
+  ]
+}
